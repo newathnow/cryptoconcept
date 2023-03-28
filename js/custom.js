@@ -195,8 +195,8 @@
   var hoverDistort = new hoverEffect({
     parent: document.querySelector('.distortion'),
     intensity: 0.5,
-    image1: 'images/1.png',
-    image2: 'images/1.png',
+    image1: 'images/LinesWhite.png',
+    image2: 'images/LinesWhite.png',
     displacementImage: 'images/dist-filter.png'
   });
 
