@@ -525,7 +525,7 @@ ion-icon {
 .cover-v1 .heading {
   font-size: 5rem;
   font-weight: 900;
-  color: #000;
+  color: #ffffff;
   mix-blend-mode: difference;
   z-index: 9998;
   position: relative;
@@ -540,7 +540,7 @@ ion-icon {
 @media (max-width: 767px) {
   .cover-v1 .heading {
     font-size: 2.5rem;
-    color: #000!important;
+    color: #fff !important;
     mix-blend-mode: color-burn;
     margin-top: 100px;
   }
@@ -1632,7 +1632,7 @@ hr {
 
 .cardd {
   border-right: none;
-  height: 300px;
+  /* height: 300px; */
   -webkit-transition: 1s !important;
 }
 
@@ -1705,7 +1705,7 @@ hr {
     display: none !important;
   }
   .cardd {
-    height: 200px;
+    /* height: 200px; */
   }
   .row .cardd h5 {
     margin: 28px 0 2px 4px;
